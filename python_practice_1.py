@@ -1,1 +1,0 @@
-print("Vlad Galyts , KN-8")
